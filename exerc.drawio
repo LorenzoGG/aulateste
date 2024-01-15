@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T18:15:14.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="mqUFEJWznqhLz8QmTEL8" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T18:15:44.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="60E_Id4DrNxW2OnVlOFb" version="22.1.17" type="github">
   <diagram name="Página-1" id="SOsw7dBk4RwLvYUgztys">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,8 +184,8 @@
         <mxCell id="z-9VKTe_76KyChtyhETo-49" value="&lt;b&gt;N&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z-9VKTe_76KyChtyhETo-51" value="Registra" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="587" y="255" width="130" height="40" as="geometry" />
+        <mxCell id="z-9VKTe_76KyChtyhETo-51" value="Possui Registros De" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="587" y="255" width="143" height="55" as="geometry" />
         </mxCell>
         <mxCell id="z-9VKTe_76KyChtyhETo-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0.441;entryY=1.083;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="z-9VKTe_76KyChtyhETo-51" target="z-9VKTe_76KyChtyhETo-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
